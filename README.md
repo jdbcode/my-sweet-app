@@ -10,3 +10,4 @@ https://jdbcode.github.io/my-sweet-app/
 https://github.com/jdbcode/my-sweet-app/blob/main/index.html
 
 ![](custom_page_w_ee_app.png)
+Earth Engine App embedded in a custom web page.
