@@ -10,3 +10,5 @@ https://jdbcode.github.io/my-sweet-app/
 
 See this file for iframe useage:<br>
 https://github.com/jdbcode/my-sweet-app/blob/main/index.html
+
+![](custom_page_w_ee_app.png)
