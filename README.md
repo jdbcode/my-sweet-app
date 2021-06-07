@@ -1,5 +1,3 @@
-# my-sweet-app
-
 A demonstration of including an Earth Engine App in a custom page as an iframe.
 
 By default, my sweet Earth Engine App has a default URL:<br>
