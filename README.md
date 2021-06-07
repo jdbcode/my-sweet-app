@@ -3,7 +3,7 @@ A demonstration of including an [Earth Engine App](https://www.earthengine.app/)
 - Earth Engine Apps have a default URL and are limited by `ui` module widgets e.g.:<br>
 https://jstnbraaten.users.earthengine.app/view/eo-timeseries-explorer
 
-- But your can embed your app in a customizable page using an iframe e.g.:<br>
+- But you can embed your app in a customizable page using an iframe e.g.:<br>
 https://jdbcode.github.io/my-sweet-app/
 
 - See this file for iframe usage:<br>
